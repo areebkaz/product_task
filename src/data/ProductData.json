@@ -1,0 +1,115 @@
+[
+    {
+      "id": 1,
+      "title": "Adidas Superstar",
+      "description": "Description for Adidas Superstar.........",
+      "price": 6099,
+      "image": "https://images.unsplash.com/photo-1519931127525-6b6a7619a003?auto=format&fit=crop&q=80&w=1623&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fABata 3D Energy Photon"
+    },
+    {
+      "id": 2,
+      "title": "Adidas NMD",
+      "description": "Description for Adidas NMD..........",
+      "price": 5299,
+      "image": "https://brand.assets.adidas.com/image/upload/f_auto,q_auto,fl_lossy/enIN/Images/originals-nmd-adv-fw23-global-launch-eplp-featured-card-male-d_tcm209-1056886.jpg"
+    },
+    {
+      "id": 3,
+      "title": "Adidas Ultraboost",
+      "description": "Description for Adidas Ultraboost.........",
+      "price": 4299,
+      "image": "https://assets.adidas.com/images/w_383,h_383,f_auto,q_auto,fl_lossy,c_fill,g_auto/63ab791586e64d17a077f7d5c0c9383c_9366/ultraboost-light-shoes.jpg"
+    },
+    {
+      "id": 4,
+      "title": "Adidas Gazelle",
+      "description": "Description for Adidas Gazelle..........",
+      "price": 8999,
+      "image": "https://assets.adidas.com/images/w_383,h_383,f_auto,q_auto,fl_lossy,c_fill,g_auto/17d4f2b6853c4342a4b23fc6a1fc8809_9366/gazelle-dcdt-gore-tex-shoes.jpg"
+    },
+    {
+      "id": 5,
+      "title": "Bubblegummers Grey Sandal",
+      "description": "Description for Bubblegummers Grey Sandal........",
+      "price": 4000,
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQrNxGJ2S_k8VauMJKdud007OllFzfegRCB2ahgS-sGgfLUAFQLeogI_R4zM6SeSYPWND0&usqp=CAU"
+    },
+    {
+      "id": 6,
+      "title": "Bata 3D Energy Photon",
+      "description": "Bata 3D Energy Lace-up Sneakers White Color - Synthetic leather and Lycra upper - memory foam insole - light outsole Bata 3D Energy are urban casual lifestyle sneakers, the ideal companion of your everyday ventures. With its mainstream versatile design they will match both your office & leisure outfits.",
+      "price": 3299,
+      "image": "https://www.bata.com/dw/image/v2/BCLG_PRD/on/demandware.static/-/Sites-bata-in-master-catalog/default/dwc99f514b/images/large/8391613_1.jpeg?sw=817"
+    },
+    {
+      "id": 7,
+      "title": "North Star Black Slipon",
+      "description": "Brand: NORTH STAR, Manufacturer: Popular Footwear (I) Ltd., Country of origin: India, Marketed by: Bata India Limited 27B, Camac Street, First Floor, Kolkata 700016 West Bengal",
+      "price": 1065,
+      "image": "https://www.bata.com/dw/image/v2/BCLG_PRD/on/demandware.static/-/Sites-bata-in-master-catalog/default/dw82223830/images/large/8596153_1.jpeg?sw=817"
+    },
+    {
+      "id": 8,
+      "title": "Bata 3D Energy Photon OXYGEN SLIP-ON SNEAKER MISTRAL",
+      "description": "Bata 3D Energy Lace-up Sneakers Blue Color - Synthetic leather and Lycra upper - memory foam insole - light outsole Bata 3D Energy are urban casual lifestyle sneakers, the ideal companion of your everyday ventures. With its mainstream versatile design they will match both your office & leisure outfits.",
+      "price": 1599,
+      "image": "https://www.bata.com/dw/image/v2/BCLG_PRD/on/demandware.static/-/Sites-bata-in-master-catalog/default/dw327863fe/images/large/8392613_1.jpeg?sw=817"
+    },
+    {
+      "id": 9,
+      "title": "Hush Puppies Black Sneakers",
+      "description": "Brand: HUSH PUPPIES, Manufacturer: Shufab,Country of origin: India, Marketed by: Bata India Limited 27B, Camac Street, First Floor, Kolkata 700016 West Bengal",
+      "price": 1999,
+      "image": "https://www.bata.com/dw/image/v2/BCLG_PRD/on/demandware.static/-/Sites-bata-in-master-catalog/default/dwc04a6621/images/large/8316922_1.jpeg?sw=817"
+    },
+    {
+      "id": 10,
+      "title": "Weinbrenner Green Sporty Sandal",
+      "description": "Brand: WEINBRENNER, Manufacturer: Infinity, Country of origin: India, Marketed by: Bata India Limited 27B, Camac Street, First Floor, Kolkata 700016 West Bengal",
+      "price": 1349,
+      "image": "https://www.bata.com/dw/image/v2/BCLG_PRD/on/demandware.static/-/Sites-bata-in-master-catalog/default/dwda8fbf13/images/large/8617332_1.jpeg?sw=817"
+    },
+    {
+      "id": 11,
+      "title": "Weinbrenner Navy Casual Shoes",
+      "description": "Brand: WEINBRENNER, Manufacturer: Diamond Footcare, Country of origin: India, Marketed by: Bata India Limited 27B, Camac Street, First Floor, Kolkata 700016 West Bengal",
+      "price": 2499,
+      "image": "https://www.bata.com/dw/image/v2/BCLG_PRD/on/demandware.static/-/Sites-bata-in-master-catalog/default/dw2db42a13/images/large/8099192_1.jpeg?sw=817"
+    },
+    {
+      "id": 12,
+      "title": "Power Black Sneaker",
+      "description": "Brand: WEINBRENNER, Manufacturer: Diamond Footcare, Country of origin: India, Marketed by: Bata India Limited 27B, Camac Street, First Floor, Kolkata 700016 West Bengal",
+      "price": 2649,
+      "image": "https://www.bata.com/dw/image/v2/BCLG_PRD/on/demandware.static/-/Sites-bata-in-master-catalog/default/dwb6de763c/images/large/8396453_1.jpeg?sw=817"
+    },
+    {
+      "id": 13,
+      "title": "Power Grey Sneaker",
+      "description": "Brand: WEINBRENNER, Manufacturer: Diamond Footcare, Country of origin: India, Marketed by: Bata India Limited 27B, Camac Street, First Floor, Kolkata 700016 West Bengal",
+      "price": 2999,
+      "image": "https://www.bata.com/dw/image/v2/BCLG_PRD/on/demandware.static/-/Sites-bata-in-master-catalog/default/dwe8233674/images/large/8392453_1.jpeg?sw=817"
+    },
+    {
+      "id": 14,
+      "title": "RedTape Sports Walking Shoes",
+      "description": "RedTape Sports Walking Shoes | Soft Cushioned Insole, Slip-Resistance, Dynamic Feet Support, Arch Support & Shock Absorption",
+      "price": 1069,
+      "image": "https://mirzacdns3.s3.ap-south-1.amazonaws.com/cache/catalog/RSO3371/1-800x800.jpg"
+    },
+    {
+      "id": 15,
+      "title": "RedTape Casual Sneaker Shoes",
+      "description": "RedTape Casual Sneaker Shoes for Men | Soft Cushioned Insole, Slip-Resistance, Dynamic Feet Support, Arch Support & Shock Absorption ",
+      "price": 1899,
+      "image": "https://mirzacdns3.s3.ap-south-1.amazonaws.com/cache/catalog/RSO1837C/8-800x800.jpg"
+    },
+    {
+      "id": 16,
+      "title": "Red Tape Sneaker Casual Shoes",
+      "description": "RedTape Lifestyle Shoes for Men | Comfortable & DurableFeel Comfort And Style With These White/Black Shoes For Men Brought To You By Redtape. ",
+      "price": 2099,
+      "image": "https://mirzacdns3.s3.ap-south-1.amazonaws.com/cache/catalog/RSL0012/8-800x800.jpg"
+    }
+  ]
+  
